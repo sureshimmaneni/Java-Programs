@@ -1,3 +1,4 @@
+//import mail.jar, activation.jar and itextpdf.jar
 package program;
 import java.io.ByteArrayOutputStream;
 import java.io.OutputStream;
